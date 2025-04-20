@@ -4,6 +4,14 @@
 
 ---
 
+## 🖼️ Screenshots
+
+![Screenshot 2025-04-20 174612](https://github.com/user-attachments/assets/4b4e8316-74b1-4dad-8d02-041fbedada74)
+![Screenshot 2025-04-20 174542](https://github.com/user-attachments/assets/9bfbd5d0-bdce-4a30-a72b-343a68dd2150)
+![Screenshot 2025-04-20 174921](https://github.com/user-attachments/assets/0ccb0f09-ca7e-47f9-ad6e-6de3028db8f2)
+
+---
+
 ## 🌐 Live Demo
 
 🔗 Try the app live at: [https://code-wave-jet.vercel.app](https://code-wave-jet.vercel.app)
